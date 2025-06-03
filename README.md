@@ -1,5 +1,5 @@
 Conexiones a base de datos
 
-Instalacion del bun 
+Comando para instalacion del bun: 
 bun install
 
