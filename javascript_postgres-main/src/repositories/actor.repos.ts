@@ -1,4 +1,4 @@
-import { db } from '../db/conection.ts';
+import { db } from '../db';
 import { actors } from '../db/schema.ts';
 import { eq } from "drizzle-orm/sql/expressions/conditions";
 
